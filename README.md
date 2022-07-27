@@ -7,7 +7,7 @@
 <p align="center">
     <a href="https://Lexxy24.github.io">
         <img
-            src="https://readme-typing-svg.herokuapp.com?size=15&width=280&lines=Neobotz+By+Lexxy+Official+🙏"
+            src="https://readme-typing-svg.herokuapp.com?size=15&width=280&lines=Neobotz+By+Abarai+Renji+🙏"
             alt="Subscribe Yt Lexxy Official"
         />
     </a>
